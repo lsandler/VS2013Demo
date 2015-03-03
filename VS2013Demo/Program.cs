@@ -12,6 +12,8 @@ namespace VS2013Demo
         {
             //changes
             //v1.1 changes
+
+            //master change
         }
     }
 }
