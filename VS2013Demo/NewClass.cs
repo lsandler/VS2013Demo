@@ -8,5 +8,7 @@ namespace VS2013Demo
 {
     class NewClass
     {
+        //changes
+        //more changes for v1.1
     }
 }
